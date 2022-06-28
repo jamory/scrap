@@ -31,6 +31,6 @@ def guesser():
                 print("Bye")
 
 #def guessy():
-#3:47 edit   
+
 
 main()
